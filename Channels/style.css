@@ -1,0 +1,38 @@
+body {
+  background-image: url(Channel.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container-content {
+  width: 75%;
+  height: 70vh;
+  background-color: rgb(255, 255, 255, 0.7);
+  border-radius: 15px;
+}
+
+.btn-dark {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.container-content h1 {
+  margin-top: 37px;
+  margin-left: 38px;
+}
+
+.container-content p {
+  margin-top: 10px;
+  margin-left: 38px;
+  font-weight: 400;
+  font-size: 32px;
+}
+
+.container-content button {
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.container-content button img {
+  height: 17px;
+  margin-right: 5px;
+}
